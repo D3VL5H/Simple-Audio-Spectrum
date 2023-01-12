@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAudioSpectrum", "SimpleAudioSpectrum\SimpleAudioSpectrum.csproj", "{D7F7FC29-F994-4E6C-82C4-E5AB91308F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F7FC29-F994-4E6C-82C4-E5AB91308F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F7FC29-F994-4E6C-82C4-E5AB91308F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F7FC29-F994-4E6C-82C4-E5AB91308F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F7FC29-F994-4E6C-82C4-E5AB91308F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C07B724-FF51-4D26-817A-E9C74717A4DB}
+	EndGlobalSection
+EndGlobal

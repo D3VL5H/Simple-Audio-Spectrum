@@ -1,4 +1,4 @@
-# Simple-Audio-Spectrum(Winform)
+# Simple-Audio-Spectrum
 
 Simple audio spectrum implemented in Winform
 
